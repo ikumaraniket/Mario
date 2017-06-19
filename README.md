@@ -1,2 +1,2 @@
 # Maryo_game
-This is a simple one frame Maryo game For some Fun.
+A simple single frame Mario Game in which the main lead plays with it's rival Dragon who throws FIRE Balls. (USING Python)
